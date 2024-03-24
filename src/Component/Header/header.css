@@ -1,4 +1,8 @@
 .header{
+    
     display: flex;
     gap: 2rem;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
 }

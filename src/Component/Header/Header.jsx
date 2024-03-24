@@ -3,8 +3,8 @@ import '../Header/header.css'
 import { Link } from 'react-router-dom';
 const Header = () => {
     return (
-        <div>
-            <ul className='header' >
+        <div  >
+            <ul  className='header'>
 
                 <Link to="/">Home</Link>
                 <Link to="/about">About</Link>
